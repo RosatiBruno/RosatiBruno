@@ -1,7 +1,11 @@
           
 ### Olá! Eu sou o Bruno S. Rosati 🖐🏻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-siqueira-rosati-a0a293264/)
+### Me encontre em:
+
+<a href="https://www.linkedin.com/in/bruno-siqueira-rosati-a0a293264/">
+<img align="center" alt="LinkedIn" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a><br><br>
 
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosatibruno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true&cache_seconds=21600)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosatibruno&layout=compact&theme=dracula)
