@@ -3,7 +3,7 @@
 
 ### Me encontre em:
 
-<a href="https://www.linkedin.com/in/bruno-siqueira-rosati-a0a293264/" onclick="window.open(this.href, '_blank'); return false;">
+<a href="https://www.linkedin.com/in/bruno-siqueira-rosati-a0a293264/">
 <img align="center" alt="LinkedIn" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a><br><br>
 
