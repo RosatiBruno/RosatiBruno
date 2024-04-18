@@ -5,6 +5,8 @@
 
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosatibruno&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosatibruno)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que uso em meu dia a dia
 
 <div style="display: inline_block"><br>
