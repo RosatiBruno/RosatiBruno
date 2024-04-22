@@ -7,7 +7,7 @@
 <img align="center" alt="LinkedIn" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a><br><br>
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosatibruno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosatibruno&show_icons=true&theme=dracula&count_private=true&hide_rank=true) <!--&include_all_commits=true-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosatibruno&layout=compact&theme=dracula)
 
 ## Tecnologias que uso em meu dia a dia
