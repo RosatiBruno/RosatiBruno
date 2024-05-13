@@ -22,5 +22,4 @@
 Apenas um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia.
 
 ## Atualmente estudando
-- Python
 - C#
