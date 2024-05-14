@@ -8,7 +8,7 @@
 </a><br><br>
 
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosatibruno&show_icons=true&theme=dracula&count_private=true&hide_rank=true) <!-- &include_all_commits=true -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosatibruno&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosatibruno&layout=compact&theme=dracula&show_icons=false)
 
 ## Tecnologias que uso em meu dia a dia
 
